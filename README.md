@@ -55,6 +55,6 @@ Aplikasi menggunakan `GroupLayout` untuk mengatur komponen di dalam `JPanel`. Ko
 Muhammad Ikhya 2210010405
 
 ## Demo
-
+![Contoh GIF](img/PenghitungKata.gif)
 
 
