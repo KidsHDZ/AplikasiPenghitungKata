@@ -1,7 +1,3 @@
-Berikut adalah README untuk aplikasi `ApkPenghitungKataFrame` dalam format GitHub:
-
----
-
 # ApkPenghitungKataFrame
 
 **Aplikasi ini adalah aplikasi desktop berbasis Java Swing yang berfungsi untuk menghitung jumlah kata, karakter, kalimat, paragraf, serta mencari jumlah kemunculan kata tertentu dalam teks yang dimasukkan oleh pengguna.**
@@ -59,5 +55,6 @@ Aplikasi menggunakan `GroupLayout` untuk mengatur komponen di dalam `JPanel`. Ko
 Muhammad Ikhya 2210010405
 
 ## Demo
+
 
 
